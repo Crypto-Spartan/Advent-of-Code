@@ -5,9 +5,9 @@ import (
     // "main/day01"
     // "main/day02"
     // "main/day03"
-    "main/day04"
+    // "main/day04"
     // "main/day05"
-    // "main/day06"
+    "main/day06"
     // "main/day07"
     // "main/day08"
     // "main/day09"
@@ -28,17 +28,14 @@ func main() {
     // day03.Puzzle1()
     // day03.Puzzle2()
     // fmt.Println()
-    day04.Puzzle1()
-    day04.Puzzle2()
+    // day04.Puzzle1()
+    // day04.Puzzle2()
     // fmt.Println()
     // day05.Puzzle1()
     // day05.Puzzle2()
-    // day05.AltSolution()
-    // day05.Puzzle1_par()
-    // day05.Puzzle2_par()
     // fmt.Println()
-    // day06.Puzzle1()
-    // day06.Puzzle2()
+    day06.Puzzle1()
+    day06.Puzzle2()
     // fmt.Println()
     // day07.Puzzle1()
     // day07.Puzzle2()
